@@ -1,0 +1,30 @@
+{
+  "user": [
+    {
+      "email": "vinayak@mail.com",
+      "name": "vinayak",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "email": "jeetu@mail.com",
+      "name": "jeetu",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "address": "Noida sector 50",
+      "contact": "111",
+      "id": 1
+    },
+    {
+      "name": "Dominos",
+      "address": "alwar",
+      "contact": "1234689hgg",
+      "id": 2
+    }
+  ]
+}
